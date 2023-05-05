@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ---
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangqian122&theme=dark&layout=compact)
 [![xiangqian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xiangqian122&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![B站](https://stats.justsong.cn/api/bilibili/?id=472735850&theme=light&lang=zh-CN)
+![B站](https://stats.justsong.cn/api/bilibili/?id=472735850&theme=light&lang=zh-CN&raw=true)(https://github.com/songquanpeng/stats-cards)
