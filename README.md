@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 [![xiangqian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangqian122&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangqian122&theme=dark&layout=compact)
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/xiangqian122/xiangqian122&right_color=red" />
