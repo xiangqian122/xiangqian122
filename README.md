@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 
 -->
 [![xiangqian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangqian122&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangqian122&theme=dark&layout=compact)
-![](https://stats.justsong.cn/api/bilibili/?id=472735850&theme=dark)
-
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangqian122&theme=dark&layout=compact)
+![B站](https://stats.justsong.cn/api/bilibili/?id=472735850&theme=light&lang=zh-CN)
